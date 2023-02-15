@@ -1,2 +1,2 @@
-I'm Can Dokuyucu 
+Hi! I'm Can Dokuyucu 
 I am a Hardware developer
